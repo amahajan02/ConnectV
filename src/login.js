@@ -1,4 +1,4 @@
-var fs = require("fs");
+// var fs = require("fs");
 function submitBtnClicked() {
 	// TODO: Store username and password in database
 	console.log("-----------username=" + document.getElementById("userName").value);
